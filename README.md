@@ -30,4 +30,4 @@ Customer retention and churn analysis dashboard built using Power BI, covering c
 ## Dashboard PDF
 - [Customer_Churn_Dashboard.pdf] (https://github.com/Devakanchana87/telco-customer-churn-dashboard-Power-BI-task-2/blob/35dc5c5259f9dd11175efc6e8720f8254730c185/CUSTOMER_CHURN_ANALYSIS_DASHBOARD.pdf )
 ## Dashboard link
-- [Power BI link]
+- [Power BI link](https://github.com/Devakanchana87/telco-customer-churn-dashboard-Power-BI-task-2/blob/1fe69ebcad426e651e9ea6123d7f3a058e368747/CUSTOMER_CHURN_ANALYSIS_DASHBOARD.pbix)
